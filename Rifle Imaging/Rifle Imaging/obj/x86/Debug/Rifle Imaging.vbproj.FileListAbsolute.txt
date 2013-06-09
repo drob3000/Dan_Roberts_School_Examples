@@ -1,0 +1,12 @@
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\bin\Debug\Rifle Imaging.exe
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\bin\Debug\Rifle Imaging.pdb
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\bin\Debug\Rifle Imaging.xml
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\obj\x86\Debug\Rifle_Imaging.MainForm.resources
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\obj\x86\Debug\Rifle_Imaging.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\obj\x86\Debug\Rifle_Imaging.SummaryForm.resources
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\obj\x86\Debug\Rifle Imaging.exe
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\obj\x86\Debug\Rifle Imaging.xml
+C:\Users\Dan\Documents\Visual Studio 2010\.Net II\Rifle Imaging\Rifle Imaging\obj\x86\Debug\Rifle Imaging.pdb
